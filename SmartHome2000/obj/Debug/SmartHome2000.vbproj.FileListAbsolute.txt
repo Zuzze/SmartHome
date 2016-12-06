@@ -1,0 +1,11 @@
+C:\Users\ORC\Documents\Visual Studio 2015\Projects\SmartHome2000\SmartHome2000\bin\Debug\SmartHome2000.exe.config
+C:\Users\ORC\Documents\Visual Studio 2015\Projects\SmartHome2000\SmartHome2000\bin\Debug\SmartHome2000.exe
+C:\Users\ORC\Documents\Visual Studio 2015\Projects\SmartHome2000\SmartHome2000\bin\Debug\SmartHome2000.pdb
+C:\Users\ORC\Documents\Visual Studio 2015\Projects\SmartHome2000\SmartHome2000\bin\Debug\SmartHome2000.xml
+C:\Users\ORC\Documents\Visual Studio 2015\Projects\SmartHome2000\SmartHome2000\obj\Debug\WindowsApplication1.SmartHomeForm.resources
+C:\Users\ORC\Documents\Visual Studio 2015\Projects\SmartHome2000\SmartHome2000\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ORC\Documents\Visual Studio 2015\Projects\SmartHome2000\SmartHome2000\obj\Debug\SmartHome2000.vbproj.GenerateResource.Cache
+C:\Users\ORC\Documents\Visual Studio 2015\Projects\SmartHome2000\SmartHome2000\obj\Debug\SmartHome2000.exe
+C:\Users\ORC\Documents\Visual Studio 2015\Projects\SmartHome2000\SmartHome2000\obj\Debug\SmartHome2000.xml
+C:\Users\ORC\Documents\Visual Studio 2015\Projects\SmartHome2000\SmartHome2000\obj\Debug\SmartHome2000.pdb
+C:\Users\ORC\Documents\Visual Studio 2015\Projects\SmartHome2000\SmartHome2000\obj\Debug\SmartHome2000.vbprojResolveAssemblyReference.cache
